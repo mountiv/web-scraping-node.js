@@ -1,5 +1,5 @@
 
-# web-scraping-Node.js ©
+# web-scraping-Node.js © lucky7123
 
 Provides metadata and image info for any web page as JSON 
 
