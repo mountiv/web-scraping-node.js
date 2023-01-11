@@ -1,5 +1,5 @@
 
-# web-scraping-Node.js © lucky7123
+# web-scraping-Node.js
 
 Provides metadata and image info for any web page as JSON 
 
@@ -20,3 +20,6 @@ Provides metadata and image info for any web page as JSON
 `http://localhost:3000`
 
 #### Enter a URL in the text box and then click: "Scrape"
+
+## License & Copyright 
+© lucky7123
