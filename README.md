@@ -21,5 +21,5 @@ Provides metadata and image info for any web page as JSON
 
 #### Enter a URL in the text box and then click: "Scrape"
 
-## License & Copyright 
-© lucky7123
+## Author 
+© me
